@@ -1,0 +1,18 @@
+.titles{
+    color:rgb(243, 82, 7);
+    height:300px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    }
+    
+    .tabel{
+      width: 800px;
+     margin-left: 300px;
+     margin-top: -80px;
+    }
+    
+    .subimg{
+      background-image: url('../Components/77.jpg');
+      height: 100px;
+    }
